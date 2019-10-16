@@ -6,6 +6,7 @@ from distutils.core import setup
 setup(
     name='youdao-py',
     version='0.0.1',
+    description='Youdao translation SDK',
     author='iubzxin',
     author_email='641015302@qq.com',
     url='https://github.com/iubzxin/youdao-py',
